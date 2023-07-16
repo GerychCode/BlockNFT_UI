@@ -1,0 +1,12 @@
+.circle-animation {
+    animation: circleMove 2s infinite alternate ease-in-out;
+}
+
+@keyframes circleMove {
+    0% {
+        transform: translateX(-5px) translateY(-5px);
+    }
+    100% {
+        transform: translateX(5px) translateY(5px);
+    }
+}

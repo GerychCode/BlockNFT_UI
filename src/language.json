@@ -1,0 +1,100 @@
+{
+  "en": {
+    "header": {
+      "company": "Company",
+      "product": "Product",
+      "artist": "Artist",
+      "wallet": "Wallet"
+    },
+    "greetings_block": {
+      "postscript" : "Blockchain is new Brands!",
+      "title": ["Make Your Crypto transaction", "easier"],
+      "button": "Get Sharted"
+    },
+    "top_crypt_block": {
+      "title": "Top Crypto Now",
+      "top_crypto_paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed viverra faucibus ac imperdiet pellentesque. Sit purus augue arcu quam orci. Et tortor, gravida libero et amet. Pretium commodo, odio viverra mauris vitae sisl congue bibendume. Lorem scelerisque volutpat aliquam convallis tellus nunc, molestie.",
+      "button": "Learn More"
+    },
+    "contact_form_block": {
+      "title": "Your Business Ready For The Blockchain",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendisse",
+      "placeholder": "Your Email address ...",
+      "button": "Join Now"
+    },
+    "road_map_block": {
+      "title": "RoadMap",
+      "list": [
+        {
+          "title": "Login Or Create our account",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendisse consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit. "
+        },
+        {
+          "title": "Research",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit. "
+        },
+        {
+          "title": "Choose your crypto",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit."
+        },
+        {
+          "title": "Pre-Sale and Buy",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse  aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit."
+        }
+      ]
+    },
+    "footer": {
+      "button": "Contact Us For More Details",
+      "media": "Social Media Links"
+    }
+  },
+  "ua": {
+    "header": {
+      "company": "Компанія",
+      "product": "Продукт",
+      "artist": "Митець",
+      "wallet": "Гаманець"
+    },
+    "greetings_block": {
+      "postscript" : "Блокчейн - новий бренд!",
+      "title": ["Зробіть ваші криптотранзакції", "легшими"],
+      "button": "Почати"
+    },
+    "top_crypt_block": {
+      "title": "Топові криптовалюти зараз",
+      "top_crypto_paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed viverra faucibus ac imperdiet pellentesque. Sit purus augue arcu quam orci. Et tortor, gravida libero et amet. Pretium commodo, odio viverra mauris vitae sisl congue bibendume. Lorem scelerisque volutpat aliquam convallis tellus nunc, molestie.",
+      "button": "Дізнатися більше"
+    },
+    "contact_form_block": {
+      "title": "Ваш бізнес готовий до блокчейну",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendisse",
+      "placeholder": "Ваша електронна адреса ...",
+      "button": "Приєднатися"
+    },
+    "road_map_block": {
+      "title": "Маршрутна карта",
+      "list": [
+        {
+          "title": "Увійти або створити обліковий запис",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendisse consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit. "
+        },
+        {
+          "title": "Дослідження",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit. "
+        },
+        {
+          "title": "Виберіть свою криптовалюту",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit."
+        },
+        {
+          "title": "Попередній продаж та купівля",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. r adipiscing elit. At sit ut nulla eu stetur eget. Nec, ac, sollicitudin aliquam ut egestas duis dolor. Congue suspendisse aliquam ut egestas duis dolor. Congue suspendiss consectetur adipiscing elit."
+        }
+      ]
+    },
+    "footer": {
+      "button": "Зв'яжіться з нами",
+      "media": "Соціальні мережі"
+    }
+  }
+}

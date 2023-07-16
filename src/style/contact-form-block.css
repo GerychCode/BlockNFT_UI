@@ -1,0 +1,97 @@
+.contact_form_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    min-height: 372px;
+    border-radius: 11px;
+    background: rgba(255, 255, 255, 0.11);
+    backdrop-filter: blur(250px);
+    padding: 0 4.2vw;
+    gap: 15px;
+}
+@keyframes contact_form_image_move {
+    from {
+        transform: scale(98%);
+    }
+
+    to {
+        transform: scale(100%);
+    }
+}
+.contact_form_image {
+    min-width: 300px;
+    width: 70%;
+    justify-self: center;
+    animation: 2s linear 1s infinite alternate contact_form_image_move;
+}
+.contact_form_info {
+
+}
+.contact_form_info_title {
+    color: #FFF;
+    font-size: 36px;
+    font-style: normal;
+    line-height: 48px;
+    margin-bottom: 10px;
+}
+.contact_form_info_title span{
+    color: #4F80EF;
+}
+.contact_form_info_paragraph {
+    color: #9E9E9E;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    margin-bottom: 30px;
+}
+
+.contact_form_input_block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid rgba(159, 159, 159, 0.40);
+}
+.contact_form_input_text {
+    margin: 15px 25px;
+    width: 100%;
+    background: none;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+.contact_form_input_text::placeholder {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.contact_form_input_button {
+    width: 150px;
+    background: linear-gradient(135deg, #2A6BF2 0%, #2D3794 100%);
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+@media (max-width: 768px) {
+    .contact_form_image {
+        display: none;
+    }
+    .contact_form_container {
+        display: flex;
+    }
+}

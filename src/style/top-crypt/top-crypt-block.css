@@ -1,0 +1,36 @@
+.top_crypto_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.top_crypto_title {
+    color: #FFF;
+    font-size: 36px;
+    font-style: normal;
+    line-height: 48px;
+    text-align: center;
+}
+.top_crypto_paragraph {
+    max-width: 780px;
+    color: #A9A9A9;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 18px 0 48px 0;
+}
+.top_crypto_list {
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+@media (max-width: 768px) {
+    .top_crypto_list {
+        flex-direction: column;
+        align-items: center;
+    }
+}

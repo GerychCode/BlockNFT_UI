@@ -1,0 +1,53 @@
+.company {
+    height: 130px;
+    width: 100%;
+    background: rgba(238, 238, 238, 0.12);
+    backdrop-filter: blur(50px);
+    margin-bottom: 80px;
+}
+
+.company_container {
+    overflow: hidden;
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    gap: 50px;
+}
+.company_list {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    min-width: 769px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 35px;
+
+}
+.company_list:not(:first-child) {
+    display: none;
+}
+
+.company_item {
+    display: block;
+    width: 250px;
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(calc(-100% - 50px ));
+    }
+}
+
+@media (max-width: 1150px) {
+    .company_list {
+        justify-content: space-evenly;
+        animation: slide 20s infinite linear;
+    }
+    .company_list:not(:first-child) {
+        display: flex;
+    }
+}
