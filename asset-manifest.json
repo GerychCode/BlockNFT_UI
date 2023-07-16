@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.19d9c2c1.css",
+    "main.js": "./static/js/main.06f1cce0.js",
+    "static/media/Main_Image.png": "./static/media/Main_Image.54d68ba2cda52c806b91.png",
+    "static/media/CoinBade.svg": "./static/media/CoinBade.fc5a9def1ae3b12a04b9b248cb48fed1.svg",
+    "static/media/AKSPRODUCT.svg": "./static/media/AKSPRODUCT.1469c6792cbddd2f1d9628c26ea4fb02.svg",
+    "static/media/adbos.svg": "./static/media/adbos.16fd157fed4f443334be43641f24c26e.svg",
+    "static/media/language.svg": "./static/media/language.f7370c49c2d272ed4e853ffb2115fff1.svg",
+    "static/media/TRAFFIC.svg": "./static/media/TRAFFIC.a0a92ba30aa7b6fd3d4c2caa09081014.svg",
+    "static/media/Bitcoin.svg": "./static/media/Bitcoin.87e3c3c29fd933cc93cb9c81824431ef.svg",
+    "static/media/linkedin.svg": "./static/media/linkedin.eef2cfecf8b7e541d5343e17fa93033b.svg",
+    "static/media/Riple.svg": "./static/media/Riple.97d2ae67e2333341a14a65050f5eab0e.svg",
+    "static/media/twitter.svg": "./static/media/twitter.c3673192ea75d6944285fdcfd34caa49.svg",
+    "static/media/logo.svg": "./static/media/logo.8428227688706ff6ccf54466c03382bf.svg",
+    "static/media/Facebook.svg": "./static/media/Facebook.5bf2c6e787d61cd121b27349d9aeba88.svg",
+    "static/media/Arrow.svg": "./static/media/Arrow.3519e2be201306aaa4021dd00c573447.svg",
+    "index.html": "./index.html",
+    "static/media/Ethereum.svg": "./static/media/Ethereum.0fe90f575de7bad5796c841b51befe66.svg",
+    "main.19d9c2c1.css.map": "./static/css/main.19d9c2c1.css.map",
+    "main.06f1cce0.js.map": "./static/js/main.06f1cce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d9c2c1.css",
+    "static/js/main.06f1cce0.js"
+  ]
+}
